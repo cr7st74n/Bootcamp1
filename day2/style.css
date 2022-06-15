@@ -1,0 +1,11 @@
+body{
+    background: rgb(118, 109, 128);
+}
+
+#text{
+    font-size: 2em;
+}
+
+.blue{
+    color:rgb(29, 32, 228);
+}
